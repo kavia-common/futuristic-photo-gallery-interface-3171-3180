@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/tmp/kavia/workspace/code-generation/futuristic-photo-gallery-interface-3171-3180/jarvis_hud_photo_gallery_frontend"
+}
